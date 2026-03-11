@@ -1,1 +1,3 @@
-Prova de conceito (PoC) de uma infraestrutura de dados descentralizada utilizando dbt-core e DuckDB. O projeto realiza o ciclo completo de engenharia, da ingestão de dados abertos da indústria de óleo e gás brasileira à modelagem dimensional, focando em reprodutibilidade via Docker e otimização de processamento local sem dependência de provedores de nuvem.
+## Arquitetura Local-First para Engenharia de Dados Públicos (PNCP)
+
+Prova de conceito (PoC) de uma infraestrutura de dados descentralizada utilizando dbt-core e DuckDB. O projeto implementa o ciclo completo de engenharia de dados, da ingestão resiliente via API do Portal Nacional de Contratações Públicas (PNCP) à modelagem dimensional (Star Schema), com foco em reprodutibilidade via Docker, otimização de processamento local e garantia de integridade via Data Quality Gates.
