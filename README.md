@@ -1,0 +1,1 @@
+Prova de conceito (PoC) de uma infraestrutura de dados descentralizada utilizando dbt-core e DuckDB. O projeto realiza o ciclo completo de engenharia, da ingestão de dados abertos da indústria de óleo e gás brasileira à modelagem dimensional, focando em reprodutibilidade via Docker e otimização de processamento local sem dependência de provedores de nuvem.
